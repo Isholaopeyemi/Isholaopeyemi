@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **building my data analytics skills in SQL, Excel, PowerBi and Tableau**
 
-- 🌱 I’m currently learning **learning everything.**
+- 🌱 I’m currently learning **everything.**
 
 - 👯 I’m looking to collaborate on **Data science projects to enhance my skills**
 
